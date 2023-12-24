@@ -39,6 +39,7 @@ AGRO is an advanced agricultural analytics method that leverages meticulously pr
 ## Perilous Insect Classes
 
 The framework is trained to detect and classify a total of 15 perilous insect classes, ensuring comprehensive coverage of potential threats to agricultural properties.
+Sample augmented test folder is provided in the files.
 
 ## License
 
